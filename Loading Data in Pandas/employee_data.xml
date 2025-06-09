@@ -1,0 +1,20 @@
+<dataset>
+<record>
+<id>1</id>
+<name>John Doe</name>
+<age>28</age>
+<city>New York</city>
+</record>
+<record>
+<id>2</id>
+<name>Jane Smith</name>
+<age>34</age>
+<city>Los Angeles</city>
+</record>
+<record>
+<id>3</id>
+<name>Mike Johnson</name>
+<age>45</age>
+<city>Chicago</city>
+</record>
+</dataset>
